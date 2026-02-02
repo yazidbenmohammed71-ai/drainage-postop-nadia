@@ -225,7 +225,7 @@
   <section id="rdv">
     <h2>Prendre rendez-vous</h2>
     <p>
-      Vous pouvez réserver votre séance en me contactent directement
+      Vous pouvez réserver votre séance en me contactant directement
       via Instagram ou par numéro de téléphone.
     <section id="contact">
       <h2>Contact</h2>
